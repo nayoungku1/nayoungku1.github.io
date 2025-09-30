@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nayoung Ku"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Undergraduate in Life Science & AI Interdisciplinary Studies"
   location         : "Pohang, Korea"
   employer         : "Handong Global University"
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "nayoungku1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : nayoung-ku # Username
+  linkedin         : "nayoung-ku" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
