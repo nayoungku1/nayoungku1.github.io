@@ -5,7 +5,7 @@ type: "Oral presentation"
 permalink: /talks/2023-08-12-symposium
 venue: "62nd National Undergraduate Symposium on Biology"
 date: 2023-08-12
-location: "Seoul National University, Seoul, Korea"
+location: "Seoul, Korea"
 ---
 
 Presented in English
