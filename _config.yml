@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Nayoung Ku"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Undergraduate in Life Science & AI Interdisciplinary Studies"
   location         : "Pohang, Korea"
   employer         : "Handong Global University"
