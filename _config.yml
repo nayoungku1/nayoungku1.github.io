@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Nayoung Ku"
 title_separator          : "-"
 name                     : &name "Nayoung Ku"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Nayoung's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nayoungku1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "nayoungku1/nayoungku1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nayoung Ku"
   pronouns         : "she/her"  
   bio              : "Undergraduate in Life Science & AI Interdisciplinary Studies"
