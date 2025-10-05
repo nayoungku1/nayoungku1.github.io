@@ -24,10 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/CV_NayoungKu.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /files/CV_NayoungKu.pdf #   url: /cv-json/
     
   - title: "Guide"
     url: /markdown/
