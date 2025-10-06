@@ -19,11 +19,11 @@ At 17, I published a [book](https://product.kyobobook.co.kr/detail/S000060619640
 
 Seeing these projects through from vision to finished product taught me how to break complex work into manageable steps, balance creative vision with execution, and iterate until the result clicks.
 
-<p align="center">
-    <img src="../images/star-book.jpeg" height="150" hspace="5" >
-    <img src="../images/the-stream-1.png" height="150" hspace="5" >
-    <img src="../images/the-stream-2.png" height="150" hspace="5" >
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:5px;">
+    <img src="../images/star-book.jpeg" height="150px" >
+    <img src="../images/the-stream-1.png" height="150px">
+    <img src="../images/the-stream-2.png" height="150px" >
+</div>
 
 
 
@@ -36,26 +36,26 @@ During undergrad, I participated in **Lunch & Learn** session where peers and I 
 
 I want to bring Lunch & Learn wherever I go!
 
-<p align="center">
-    <img src="../images/poster.jpg" height="200" >
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:10px;">
+    <img src="../images/poster.JPG" height="200px" >
+</div>
 
 
 ## Outdoor Adventures & Resilience
 Surfing near campus, hiking national parks, or running for miles—these are my reset buttons. 
 At 12, I completed a **150km trek** across Korea for five days, carrying all my gear. **It taught me to persist through long, uncertain challenges**—lessons that still guide how I tackle complex projects today.
-<p align="center">
-    <img src="../images/traveling.jpeg" height="200" hspace="5" >
-    <img src="../images/hiking.jpeg" height="200" hspace="5" >
-    <img src="../images/surfing.jpeg" height="200" hspace="5" >
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:5px;">
+    <img src="../images/traveling.jpeg" height="200px" >
+    <img src="../images/hiking.jpeg" height="200px">
+    <img src="../images/surfing.jpeg" height="200px">
+</div>
 
 ## Adaptability & Connection
 **I adapt quickly and connect with diverse perspectives.**
 Between boarding school and residential college, I've lived with 30+ roommates from different backgrounds. At university, I served as an exchange student helper for those from France, Pakistan, and Spain navigate academic and cultural adjustment.
 
-<p align="center">
-    <img src="../images/EH.png" height="200" hspace="5" >
-    <img src="../images/community.jpg" height="200" hspace="5" >
-    <img src="../images/people.jpg" height="200" hspace="5" >
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:5px;">
+    <img src="../images/EH.png" height="150px">
+    <img src="../images/community.jpg" height="150px" >
+    <img src="../images/people.jpg" height="150px">
+</div>
