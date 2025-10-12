@@ -26,8 +26,11 @@ I believe in the power of interdisciplinary areas where the best ideas often eme
 * **Natural Language Processing**: LLM applications for RNA-seq FASTQ
   
 ### Selected Distinctions
-3rd place, **JUMP AI: AI Drug Discovery Competition**, 2024 (Top 3 out of 900 teams in the country; only undergraduate team among the winners) </br>
+🏆 3rd place — **JUMP AI: AI Drug Discovery Competition**, 2024 (Top 3 out of 900 teams in the country; only undergraduate team among the winners) <br>
+🎓 **Overseas Research Excellence Scholarship** — Big Data Consortium, 2025 <br>
+🎓 **Big Data Seagull Scholarship** (Merit-based) — School of Applied Artificial Intelligence, Handong Global University, 2024 (Awarded for top performance in Big Data Consortium courses in Spring'24 & Fall'24)
 
-### Education
-* B.S. & B.E., Handong Global University, Life Science, AI Interdisciplinary Studies, 2023-Present (Expected 2026) 
-* B.A., National Institute of Lifelong Education, Psychology, 2021-2023
+
+### Educations
+* B.S. & B.E., Handong Global University, Life Science, AI Interdisciplinary Studies, 2023 - Present (Expected 2026) 
+* B.A., National Institute of Lifelong Education, Psychology, 2021 - 2023

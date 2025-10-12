@@ -51,7 +51,7 @@ Seeing these projects through from vision to finished product taught me how to b
 
 During my second bachelor's degree, I participated in **Lunch & Learn** sessions where peers and I taught each other about new tools, concepts, and research, plus whatever sparked our curiosity over lunch. That collaborative environment became something rare: a place where we shared our growth, asked hard questions together, and actually knew each other—not just as peers, but as intellectuals with real stakes in each other's development.That bond made us all sharper thinkers.
 
-I realized that knowledge shared isn't diminished—it multiplies in unexpected ways. And teaching peers deepens your own understanding in ways learning alone never can. That's the culture I'm building everywhere I go."
+I realized that knowledge shared isn't diminished—it multiplies in unexpected ways. And teaching peers deepens your own understanding in ways learning alone never can. That's the culture I'm building everywhere I go.
 
 <div class="image-container">
     <img src="../images/poster.JPG">
@@ -61,7 +61,7 @@ I realized that knowledge shared isn't diminished—it multiplies in unexpected 
 ## Outdoor Adventures & Resilience
 Surfing near campus, hiking national parks, or running for miles—these are my reset buttons. 
 
-At 12, I completed a **150km trek across Korea** over five days, carrying everything I needed on my back. That experience fundamentally rewired how I approach uncertainty and fatigue. I learned that the discomfort doesn't break you—it's just information. 
+At age 12, I completed a **150km trek across Korea** over five days, carrying everything I needed on my back. That experience fundamentally rewired how I approach uncertainty and fatigue. I learned that the discomfort doesn't break you—it's just information. 
 
 *You adjust, you keep going, and you're stronger on the other side.* I carry that lesson into every complex project, every research challenge, every moment I want to quit.
 
@@ -73,7 +73,7 @@ At 12, I completed a **150km trek across Korea** over five days, carrying everyt
 
 ## Adaptability & Connection
 **I adapt quickly and connect with diverse perspectives.**
-Between boarding school and residential college, I've lived with 30+ roommates from different backgrounds. At university, I served as an exchange student helper for those from Canada,France, Pakistan, and Spain to navigate academic and cultural adjustment.
+Between boarding school and residential college, I've lived with 30+ roommates from different backgrounds. At Handong Global University, I served as an exchange student helper especially for those from Canada, France, Pakistan, and Spain to navigate residential college culture, academic and Korean cultural adjustment.
 
 <div class="image-container">
     <img src="../images/EH.png">
