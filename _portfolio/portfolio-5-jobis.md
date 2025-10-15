@@ -1,7 +1,7 @@
 ---
 title: "JOBIS: Job Interview Prep Helper AI Agent"
-excerpt: "[<a href='https://github.com/nayoungku1/JOBis'>Github</a>]<br/><img src='/images/jobis.png'>"
+excerpt: "[<a href='https://github.com/nayoungku1/JOBis'>Github</a>]<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/jobis.png'>

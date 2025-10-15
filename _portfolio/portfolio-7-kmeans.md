@@ -1,7 +1,6 @@
 ---
 title: "Finding the Optimal Candidate Locations of Vertiports for Hospital Accessibility using K-Means"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "Project for HGU AIX20003 -- Introduction to ML (Fall'23) Advised by Prof. Junghyun Kim [<a href='https://docs.google.com/presentation/d/1BldVgQSGUzeCSSf-0BxVl2764WyX8mEgviARHuxn_kA/edit?usp=sharing'>Slide</a>]"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
