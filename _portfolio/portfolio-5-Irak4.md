@@ -1,6 +1,6 @@
 ---
 title: "AI Drug Discovery Competition: IRAK4 Inhibitor Activity Prediction"
-excerpt: "[<a href="https://github.com/nayoungku1/UNLV-histopathology">PPT</a>]<br/><img src='/images/poster.JPG'>"
+excerpt: "[<a href='https://github.com/nayoungku1/UNLV-histopathology'>PPT</a>]<br/><img src='/images/poster.JPG'>"
 collection: portfolio
 ---
 

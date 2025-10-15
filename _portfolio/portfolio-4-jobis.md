@@ -1,6 +1,6 @@
 ---
 title: "JOBIS: Job Interview Prep Helper AI Agent"
-excerpt: "[<a href="https://github.com/nayoungku1/JOBis">Github</a>]<br/><img src='/images/500x300.png'>"
+excerpt: "[<a href='https://github.com/nayoungku1/JOBis'>Github</a>]<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

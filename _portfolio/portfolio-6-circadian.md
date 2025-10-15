@@ -1,6 +1,6 @@
 ---
 title: "Simulating the Mathematical Model of Mammalian Circadian Rhythm"
-excerpt: "[<a href="https://www.youtube.com/watch?v=HnnqYVP3IOI">Video</a>]<br/><img src='/images/500x300.png'>"
+excerpt: "[<a href='https://www.youtube.com/watch?v=HnnqYVP3IOI'>Video</a>]<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
