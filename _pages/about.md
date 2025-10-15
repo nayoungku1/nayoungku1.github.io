@@ -26,7 +26,7 @@ I believe in the power of interdisciplinary areas where the best ideas often eme
 * **Natural Language Processing**: LLM applications for RNA-seq FASTQ
   
 ### Selected Distinctions
-🏆 3rd place — **JUMP AI: AI Drug Discovery Competition**, 2024 (Top 3 out of 900 teams in the country; only undergraduate team among the winners) <br>
+🏆 3rd place — **JUMP AI: AI Drug Discovery Competition**, 2024 (Top 0.3% in the country; only undergraduate team among the winners) <br>
 🎓 **Overseas Research Excellence Scholarship** — Big Data Consortium, 2025 <br>
 🎓 **Big Data Seagull Scholarship** (Merit-based) — School of Applied Artificial Intelligence, Handong Global University, 2024 (Awarded for top performance in Big Data Consortium courses in Spring'24 & Fall'24)
 
