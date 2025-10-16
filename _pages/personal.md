@@ -34,7 +34,7 @@ I value persistence, adaptability, and the humility to keep learning.
 ## Creative Projects
 
 **I express ideas through writing and visual art.**
-At 17, I published a [book](https://product.kyobobook.co.kr/detail/S000060619640) of stories, poems, and essays—doing the writing, illustrations, and layout myself. I also led a team creating a magazine that featured interviews with business leaders from different industries.
+At 17, I published a [book](https://product.kyobobook.co.kr/detail/S000060619640) of bedtime stories, poems, and essays—doing the writing, illustrations, and layout myself. I also led a team creating a magazine that featured interviews with business leaders from different industries.
 
 Seeing these projects through from vision to finished product taught me how to break complex work into manageable steps, balance creative vision with execution, and iterate until the result clicks.
 
