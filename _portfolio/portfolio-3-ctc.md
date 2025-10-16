@@ -4,3 +4,4 @@ excerpt: "In collaboration with the startup <b>Giftshed</b> (under NDA). Conduct
 collection: portfolio
 ---
 
+In collaboration with the startup <b>Giftshed</b> (under NDA). Conducted literature reviews on <b>circulating tumor cells (CTCs)</b> and developed a <b>super-resolution model</b> for unstained microscopy.
