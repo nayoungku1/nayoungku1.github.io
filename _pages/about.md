@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at [Handong Global University](https://www.handong.edu/eng/), studying Life Science & AI interdisciplinary studies. Previously, I obtained a BA in Psychology at the National Institute for Lifelong Education when I was a high school senior (at age 18).
+I am an undergraduate student at [Handong Global University](https://www.handong.edu/eng/), studying Life Science & AI interdisciplinary studies. Previously, I obtained a BA in Psychology at the National Institute for Lifelong Education when I was a high school senior.
 
 I love tackling problems from fresh angles: approaching biomedical research like a computer geek, and building AI through the lens of cognitive neuroscience. 
 I believe in the power of interdisciplinary areas where the best ideas often emerge.

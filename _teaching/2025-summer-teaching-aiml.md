@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Introduction to AI & ML"
+title: "Teaching Assistant, 2508ET – Introduction to AI & ML"
 collection: teaching
 type: "Undergraduate course"
 permalink: 

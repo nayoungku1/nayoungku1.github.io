@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant, Python Camp"
 collection: teaching
 type: "Python Camp"
 permalink: 

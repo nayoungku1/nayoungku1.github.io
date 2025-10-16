@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, AI Application Programming"
+title: "Teaching Assistant, HMM30083 - AI Application Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
