@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at [Handong Global University](https://www.handong.edu/eng/), studying Life Science & AI interdisciplinary studies. Previously, I obtained a BA in Psychology at the National Institute for Lifelong Education when I was a high school senior.
+### "See the invisible, do the impossible"
 
-I love tackling problems from fresh angles: approaching biomedical research like a computer geek, and building AI through the lens of cognitive neuroscience. 
-I believe in the power of interdisciplinary areas where the best ideas often emerge.
+I am an undergraduate student at [Handong Global University](https://www.handong.edu/eng/), studying Life Science & AI interdisciplinary studies, where I build foundational machine learning models to decode the language of biology. Previously, I obtained a BA in Psychology at the National Institute for Lifelong Education when I was a high school senior.
+
+I believe the genome is a language system where generative and representation learning can uncover regulatory patterns that standard differential expression analysis misses. My central research question is how we can learn a unified representation from biology's complementary languages: the linear text of the genome, the 3D syntax of protein structures, and the visual context of cellular images. My goal is not just to find a specific biomarker, but to build the fundamental generative models—like VAEs and Transformers—that decode the latent regulatory grammar hidden within the 'ATGC vocabulary.' Also, I aim to engineer robust, accessible software libraries and tools that empower the broader scientific community.
 
 ### Research Interests
-* Computational Biology
-* XAI for Biomedical research
+* Generative & Representation Learning for Genomics
+* Unified Representation Learning Across Biological Modalities (e.g., sequence, structure, imaging)
+* Causal & Interpretable Models of Gene Regulation
 
 ### Prior Experience
 * **Short-Term Experiential Learning Program**, DataX Lab, University of Nevada, Las Vegas (advised by Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)) 06/2025 - 07/2025
@@ -23,8 +25,8 @@ I believe in the power of interdisciplinary areas where the best ideas often eme
 
 ### Technical Skills 
 * **Genomics Analysis**: Single-cell RNA-seq, Bulk RNA-seq
-* **Computer Vision**: Cancer image classification, segmentation, super-resolution
-* **Natural Language Processing**: LLM applications for RNA-seq FASTQ
+* **Computer Vision**: Cancer image classification (microscopy and pathological image), segmentation, super-resolution
+* **Natural Language Processing**: LLM applications for RNA-seq FASTQ, sentence alignment
   
 ### Selected Distinctions
 🏆 **3rd place — JUMP AI: AI Drug Discovery Competition**, 2024 (Top 0.3% in the country; sole undergraduate team among the winners) <br>
