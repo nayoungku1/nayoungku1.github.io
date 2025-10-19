@@ -15,18 +15,13 @@ I believe the genome is a language system where generative and representation le
 
 ### Research Interests
 * Generative & Representation Learning for Genomics
-* Unified Representation Learning Across Biological Modalities (e.g., sequence, structure, imaging)
+* Unified Representation Learning Across Biological Modalities
 * Causal & Interpretable Models of Gene Regulation
 
 ### Prior Experience
 * **Short-Term Experiential Learning Program**, DataX Lab, University of Nevada, Las Vegas (advised by Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)) 06/2025 - 07/2025
 * **Student Researcher**, Center of Convergence Approaches for Drug Development, Seoul National University (advised by Prof. [Howard Lee](https://ccadd.snu.ac.kr/bbs/board.php?tbl=professor)), 01/2025 - 04/2025
 * **Research Intern**, Biodata Lab, Handong Global University (advised by Prof. [Taejin Ahn](https://scholar.google.com/citations?user=ov-BZtMAAAAJ&hl=en)) 03/2024 - 11/2024
-
-### Technical Skills 
-* **Genomics Analysis**: Single-cell RNA-seq, Bulk RNA-seq
-* **Computer Vision**: Cancer image classification (microscopy and pathological image), segmentation, super-resolution
-* **Natural Language Processing**: LLM applications for RNA-seq FASTQ, sentence alignment
   
 ### Selected Distinctions
 🏆 **3rd place — JUMP AI: AI Drug Discovery Competition**, 2024 (Top 0.3% in the country; sole undergraduate team among the winners) <br>

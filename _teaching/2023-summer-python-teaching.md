@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant, Python Camp"
+title: "Teaching Assistant, Python Programming Camp"
 collection: teaching
-type: "Python Camp"
+type: "Camp"
 permalink: 
 venue: "Incheon Beauty Arts High School"
 date: 2023-08-01
