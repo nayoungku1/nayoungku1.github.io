@@ -7,5 +7,5 @@ venue: "Addis Ababa Technology and Science University (AASTU)"
 date: 2025-08-01
 location: "Addis Ababa, Ethiopia"
 ---
-* Supported Professor Dai Yon Cho in delivering the *Introduction to AI & ML* course during the 2025 Digital Innovation Bootcamp, organized by UNESCO UNITWIN, Handong Global University, and AASTU.
+* Supported **Prof. Dai Yon Cho** in delivering the *Introduction to AI & ML* course during the 2025 Digital Innovation Bootcamp, organized by UNESCO UNITWIN, Handong Global University, and AASTU.
 * Guided undergraduate students through hands-on exercises using Google Colab and **OpenCV**, fostering practical skills and familiarity with AI concepts and ML workflows.

@@ -26,7 +26,7 @@ I believe the genome is a language system where generative and representation le
 ### Selected Distinctions
 🏆 **3rd place — JUMP AI: AI Drug Discovery Competition**, 2024 (Top 0.3% in the country; sole undergraduate team among the winners) <br>
 🎓 **Overseas Research Excellence Scholarship** — Big Data Consortium, 2025 <br>
-🎓 **Big Data Seagull Scholarship** (Merit-based) — School of Applied Artificial Intelligence, Handong Global University, 2024 (Awarded for top performance in Big Data Consortium courses in Spring'24 & Fall'24)
+🎓 **Big Data Seagull Scholarship**  — School of Applied Artificial Intelligence, Handong Global University, 2024
 
 
 ### Educations
