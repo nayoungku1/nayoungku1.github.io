@@ -24,7 +24,7 @@ main:
     url: /portfolio/
         
   - title: "CV"
-    url: /files/CV_NayoungKu.pdf #   url: /cv-json/
+    url: /files/NayoungKu_CV.pdf #   url: /cv-json/
 
   - title: "Misc"
     url: /personal/
