@@ -80,5 +80,3 @@ Between boarding school and residential college, I've lived with 30+ roommates f
     <img src="../images/community.jpg"  >
     <img src="../images/people.jpg" >
 </div>
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=SZd9oepIi8HD9Ua1sVQhANliAOF98RAZrUCg6eBVV3k&cl=ffffff&w=a"></script>
