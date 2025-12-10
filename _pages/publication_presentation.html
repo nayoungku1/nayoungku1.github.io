@@ -5,13 +5,6 @@ permalink: /publication_presentation/
 author_profile: true
 ---
 
-<h2>Publications</h2>
-<hr>
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <h2>Presentations</h2>
 <hr>
 {% include base_path %}
@@ -23,4 +16,11 @@ author_profile: true
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Undergraduate Thesis </h2>
+<hr>
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
 {% endfor %}
