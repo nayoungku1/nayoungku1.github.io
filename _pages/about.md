@@ -32,5 +32,5 @@ I view the genome as a sophisticated language system where representation learni
 
 
 ### Educations
-* B.S. & B.E., Handong Global University, Life Science, Applied Artificial Intelligence, 2023 - Present (Expected 2026) 
+* B.S. & B.Eng. _(Cum Laude)_, Handong Global University, Life Science & Applied Artificial Intelligence, 2023 - 2026  
 * B.A., National Institute of Lifelong Education, Psychology, 2021 - 2023
