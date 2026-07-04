@@ -7,23 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-### "See the Invisible, Do the Impossible."
+I am a recent graduate from [Handong Global University](https://www.handong.edu/eng/) with degrees in Life Science & Applied Artificial Intelligence.
 
-I am an undergraduate student at [Handong Global University](https://www.handong.edu/eng/), studying Life Science & Applied Artificial Intelligence, where I build foundational machine learning models to decode the language of biology. Previously, I obtained a BA in Psychology at the National Institute for Lifelong Education when I was a high school senior.
+My ultimate goal is to accelerate personalized medicine development processes. Because it is such a pain to see patients suffering from misdiagnosis or lack of treatment options. To achieve this, I not only develop novel computational methods but also leverage various open-source foundation models and datasets to bridge domain silos and optimize their application.
 
-I view the genome as a sophisticated language system where representation learning can uncover regulatory patterns hidden within its context. My central research question is how we can learn a unified representation from biology's complementary languages: the linear text of the genome and the visual context of cellular images. Rather than searching for isolated biomarkers, I aim to build generative architectures that map the latent regulatory grammar of the 'ATGC vocabulary.' By capturing the inherent heterogeneity of biological data, I hope to engineer robust, open-source tools that empower the broader scientific community to navigate the unseen.
+Using machine learning, I have developed drug screening methods and disease diagnosis methods for image and sequence data. Thus, I am currently researching in silico experiments, specifically perturbation effect prediction at single-cell resolution.
+
+I am always happy to learn more about cancer, genetic disorder diagnostics, computational pathology, and drug discovery. By capturing the inherent heterogeneity of biological data, I hope to make robust, open-source tools and contribute to the broader scientific community. Also, I am looking forward to working in academia or industry. Please feel free to reach out to me for any collaborations!
 
 ### Research Interests
-* Representation Learning for Genomics
-* Multimodal Integration & Unified Representations
-* Causal & Interpretable Deep Learning
-* Self-Supervised Learning in Bioinformatics
+* Virtual Cell (Perturbation Effect Prediction in Single Cell Resolution)
+* Multimodal Integration & Unified Representations for Prior Knowledge Guided Prediction
+* Causal & Interpretable Deep Learning for Biology
 
-### Prior Experience
-* **Research Projects**, Handong Global University (advised by Prof. Jaeyoung Chun) 08/2024 - Present
-* **Short-Term Experiential Learning Program**, DataX Lab, University of Nevada, Las Vegas (advised by Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)) 06/2025 - 07/2025
-* **Student Researcher**, Center of Convergence Approaches for Drug Development, Seoul National University (advised by Prof. [Howard Lee](https://ccadd.snu.ac.kr/bbs/board.php?tbl=professor)), 01/2025 - 04/2025
-* **Research Intern**, Biodata Lab, Handong Global University (advised by Prof. [Taejin Ahn](https://scholar.google.com/citations?user=ov-BZtMAAAAJ&hl=en)) 03/2024 - 11/2024
+### Prior Experiences
+* **Researcher**, Handong Global University (Advisor: Prof. Jaeyoung Chun) 08/2024 - Present
+* **Short-Term Experiential Learning Program**, DataX Lab, University of Nevada, Las Vegas (Advisor: Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)) 06/2025 - 07/2025
+* **Student Researcher**, Center of Convergence Approaches for Drug Development, Seoul National University (Advisor: Prof. [Howard Lee](https://ccadd.snu.ac.kr/bbs/board.php?tbl=professor)), 01/2025 - 04/2025
+* **Research Intern**, Biodata Lab, Handong Global University (Advisor: Prof. [Taejin Ahn](https://scholar.google.com/citations?user=ov-BZtMAAAAJ&hl=en)) 03/2024 - 11/2024
   
 ### Selected Distinctions
 🏆 **3rd place — JUMP AI: AI Drug Discovery Competition**, 2024 (Top 0.3% in the country; sole undergraduate team among the winners) <br>
