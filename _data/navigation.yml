@@ -26,8 +26,8 @@ main:
   - title: "CV"
     url: /files/NayoungKu_CV.pdf #   url: /cv-json/
 
-  - title: "Misc"
-    url: /personal/
+#  - title: "Misc"
+#    url: /personal/
 
 #  - title: "Guide"
 #    url: /markdown/
