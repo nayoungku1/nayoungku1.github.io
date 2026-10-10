@@ -1,11 +1,11 @@
 ---
 title: "Finding the Optimal Candidate Locations of Vertiports for Hospital Accessibility using K-Means"
-excerpt: "Project for HGU AIX20003 -- Introduction to ML (Fall'23) Advised by Prof. Junghyun Kim <a href='https://docs.google.com/presentation/d/1BldVgQSGUzeCSSf-0BxVl2764WyX8mEgviARHuxn_kA/edit?usp=sharing'>[Slide]</a>"
+excerpt: "Course project for HGU AIX20003 Introduction to ML (Fall 2023). Advisor: Prof. <b>Junghyun Kim</b>. <a href='https://docs.google.com/presentation/d/1BldVgQSGUzeCSSf-0BxVl2764WyX8mEgviARHuxn_kA/edit?usp=sharing'>[Slide]</a>"
 collection: portfolio
 ---
 
 
-Project for HGU AIX20003 -- Introduction to ML (Fall'23) Advised by Prof. Junghyun Kim <a href='https://docs.google.com/presentation/d/1BldVgQSGUzeCSSf-0BxVl2764WyX8mEgviARHuxn_kA/edit?usp=sharing'>[Slide]</a>
+Course project for HGU AIX20003 Introduction to ML (Fall 2023). Advisor: Prof. <b>Junghyun Kim</b>. <a href='https://docs.google.com/presentation/d/1BldVgQSGUzeCSSf-0BxVl2764WyX8mEgviARHuxn_kA/edit?usp=sharing'>[Slide]</a>
 
 Given Korea's geography, with many islands in the West Sea and mountains in the East Sea, we explored the potential use of urban air mobility (UAM) for medical emergencies, similar to current helicopter services for hospitals. Our goal was to identify candidate locations for vertiports that would maximize hospital accessibility.  
 

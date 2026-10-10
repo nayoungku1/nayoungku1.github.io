@@ -1,13 +1,21 @@
 ---
 layout: archive
-title: "Publications and Presentations"
+title: "Publications & Presentations"
 permalink: /publication_presentation/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<h2>Thesis</h2>
+<hr>
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <h2>Presentations</h2>
 <hr>
-{% include base_path %}
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -15,12 +23,20 @@ author_profile: true
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% unless post.category == 'seminar' %}
+    {% include archive-single-talk.html %}
+  {% endunless %}
 {% endfor %}
 
-<h2>Undergraduate Thesis </h2>
+<h2>Journal Club and Seminar Talks</h2>
 <hr>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<ul>
+{% for post in site.talks reversed %}
+  {% if post.category == 'seminar' %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>. {{ post.venue }}, {{ post.location }}, {{ post.date | date: "%b %Y" }}.{% if post.slidesurl %} <a href="{{ post.slidesurl }}">[Slides]</a>{% endif %}
+  </li>
+  {% endif %}
 {% endfor %}
+</ul>

@@ -1,7 +1,7 @@
 ---
 title: "Simulating the Mathematical Model of Mammalian Circadian Rhythm"
-excerpt: "Project for HGU BFT30057 -- Systems Biology (Spring'24) Advised by Prof. Ah-Ram Kim"
+excerpt: "Course project for HGU BFT30057 Systems Biology (Spring 2024). Advisor: Prof. <b>Ah-Ram Kim</b>."
 collection: portfolio
 ---
 
-Project for HGU BFT30057 -- Systems Biology (Spring'24) Advised by Prof. Ah-Ram Kim <a href='https://www.youtube.com/watch?v=HnnqYVP3IOI'>[Video]</a>
+Course project for HGU BFT30057 Systems Biology (Spring 2024). Advisor: Prof. <b>Ah-Ram Kim</b>. <a href='https://www.youtube.com/watch?v=HnnqYVP3IOI'>[Video]</a>
