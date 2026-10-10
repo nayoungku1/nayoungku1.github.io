@@ -19,13 +19,13 @@ In my free time, I enjoy photography, reading, good coffee, and surfing. In my t
 * Causal and interpretable deep learning for biology
 
 ### Research Experience
-* **Researcher**, Handong Global University (Advisor: Prof. Jaeyoung Chun), Aug 2024 – Present
-* **Visiting Undergraduate Researcher** (Short-Term Experiential Learning Program), DataX Lab, University of Nevada, Las Vegas (Advisor: Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)), Jun 2025 – Jul 2025
-* **Undergraduate Researcher**, Center of Convergence Approaches for Drug Development (CCADD), Seoul National University (Advisor: Prof. [Howard Lee](https://ccadd.snu.ac.kr/bbs/board.php?tbl=professor)), Jan 2025 – Apr 2025
-* **Undergraduate Research Intern**, BioData Lab, Handong Global University (Advisor: Prof. [Taejin Ahn](https://scholar.google.com/citations?user=ov-BZtMAAAAJ&hl=en)), Mar 2024 – Nov 2024 
+* **Researcher**, Handong Global University (Advisor: Prof. Jaeyoung Chun), Aug 2024 – Present<br><span class="topic-tag">scRNA-seq</span><span class="topic-tag">CRISPR</span><span class="topic-tag">Drug Response Prediction</span><span class="topic-tag">Microscopy Image</span>
+* **Visiting Undergraduate Researcher** (Short-Term Experiential Learning Program), DataX Lab, University of Nevada, Las Vegas (Advisor: Prof. [Mingon Kang](https://kang.dataxlab.org/index.php)), Jun 2025 – Jul 2025<br><span class="topic-tag"> Pathological Image Analysis</span><span class="topic-tag">Whole slide images</span><span class="topic-tag">Vision Transformer</span>
+* **Undergraduate Researcher**, Center of Convergence Approaches for Drug Development (CCADD), Seoul National University (Advisor: Prof. [Howard Lee](https://ccadd.snu.ac.kr/bbs/board.php?tbl=professor)), Jan 2025 – Apr 2025<br><span class="topic-tag">Biomedical NLP</span><span class="topic-tag">Regulatory science</span><span class="topic-tag">Parallel corpus</span>
+* **Undergraduate Research Intern**, BioData Lab, Handong Global University (Advisor: Prof. [Taejin Ahn](https://scholar.google.com/citations?user=ov-BZtMAAAAJ&hl=en)), Mar 2024 – Nov 2024<br><span class="topic-tag">Bulk RNA-seq</span><span class="topic-tag">Cancer diagnostics</span><span class="topic-tag">Tumor Educated Platelet</span>
 
 ### Honors and Awards
-🏆 **3rd Place, Excellence Award (Daewoong Pharmaceutical President's Award)**, JUMP AI 2024: AI Drug Discovery Competition, Oct 2024 (top 0.3%, 3rd of 990 teams; the only undergraduate team among the winners)
+🏆 **3rd Place, Excellence Award (Daewoong Pharmaceutical President's Award)**, JUMP AI 2024: AI Drug Discovery Competition, Oct 2024 (top 0.3%, 3rd of 990 teams; the only undergraduate team among the winners) <br>
 🎓 **Big Data Seagull Scholarship**, School of Applied Artificial Intelligence, Handong Global University, Spring and Fall 2024
 
 ### Education
