@@ -1,0 +1,51 @@
+# Photography archive. Rendered on /photography/ (see _pages/photography.md).
+#
+# 1. Put image files in /images/photography/ (long edge ~1600px, JPEG, <500KB is plenty).
+# 2. Add one entry per photo below. Newest `date` is shown first.
+#
+# Fields:
+#   file     (required) file name inside /images/photography/
+#   title    (required) short title, shown in the enlarged view
+#   date     (optional) YYYY-MM-DD, used for ordering
+#   location (optional) e.g. "Pohang, Korea"
+#   caption  (optional) one or two sentences
+#   album    (optional) photos with the same album are grouped under one heading
+#   thumb    (optional) smaller image in /images/photography/ for the grid
+#   alt      (optional) alt text; falls back to title
+#
+# Example (remove the leading "# " to use):
+# - file: sunrise-pohang.jpg
+#   title: "Sunrise at Hwanho Park"
+#   date: 2025-11-02
+#   location: "Pohang, Korea"
+#   caption: "Early morning before the lab."
+#   album: "Pohang"
+- file: 000293110031.jpg
+  thumb: thumbs/000293110031.jpg
+  title: "Where are you heading back from?"
+  location: "Seoul, South Korea"
+  film: "Kentmere 100"
+
+- file: 000293120010.jpg
+  thumb: thumbs/000293120010.jpg
+  title: "Lady of Jeju"
+  location: "Jeju, South Korea"
+  film: "Kentmere 100"
+
+- file: 000293120011.jpg
+  thumb: thumbs/000293120011.jpg
+  title: "Granpa, who told me the history of the district"
+  location: "Seongsan, Jeju, South Korea"
+  film: "Kentmere 100"
+
+- file: 000794400007.jpg
+  thumb: thumbs/000794400007.jpg
+  title: ""
+  location: "Jeju, South Korea"
+  film: "Kentmere 100"
+
+- file: 000293110028.jpg
+  thumb: thumbs/000293110028.jpg
+  title: "Nostalgia"
+  location: "At <Yoo Youngkuk: The Mountain Is Within Me> Exhibition, Seoul, South Korea"
+  film: "Kentmere 100"
