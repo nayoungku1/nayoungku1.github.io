@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from [Handong Global University](https://www.handong.edu/eng/) with degrees in Life Science & Applied Artificial Intelligence. My current research focuses on **virtual cell modeling** to simulate genetic deletions (perturbations) _in silico_, specifically tackling the challenge of **cross-cell-line zero-shot generalization** in CRISPRi perturbation prediction.
+I am a recent graduate from [Handong Global University](https://www.handong.edu/eng/) with degrees in Life Science & Applied Artificial Intelligence. My current research focuses on **virtual cell modeling** to simulate genetic perturbations _in silico_, specifically tackling the challenge of **cross-cell-line zero-shot generalization** in CRISPRi perturbation prediction.
 
 Because different cell types operate under distinct gene regulatory programs, identical perturbations often elicit vastly divergent phenotypic responses. To address this context-dependency, I try to develop models that integrate **gene regulatory networks (GRNs) and signaling pathways** that respect intracellular environments and genetic cascades rather than treating cells as statistical black boxes.
 
