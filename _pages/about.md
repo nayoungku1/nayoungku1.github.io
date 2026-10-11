@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of [Handong Global University](https://www.handong.edu/eng/) with B.Sc. degrees in Life Science and Applied Artificial Intelligence. Prior to that, while in high school, I earned a B.L.A. in Psychology through the [Bachelor's Degree Examination for Self-Education](/posts/bdes/), which sparked my interest in uncovering disease mechanisms at the cellular level. I study how cells respond to genetic perturbations, currently through **virtual cell modeling**.
+I am a recent graduate of [Handong Global University](https://www.handong.edu/eng/) with B.Sc. degrees in Life Science and Applied Artificial Intelligence. Prior to that, while in high school, I earned a B.L.A. in Psychology through the Bachelor's Degree Examination for Self-Education ([BDES](/posts/bdes/)), which sparked my interest in uncovering disease mechanisms at the cellular level. I study how cells respond to genetic perturbations, currently through **virtual cell modeling**.
 
 My current work simulates genetic perturbations _in silico_, with an emphasis on **zero-shot generalization across cell lines** at single-cell resolution. Because different cell types operate under distinct gene regulatory programs, identical perturbations often elicit divergent phenotypic responses. To address this context dependency, I develop models that integrate **gene regulatory networks (GRNs) and signaling pathways**, so that predictions respect the intracellular environment and regulatory cascades rather than treating cells as statistical black boxes. My long-term goal is to turn such mechanistic models into tools for rational intervention design and precision therapeutics.
 
